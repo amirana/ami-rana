@@ -16,7 +16,9 @@
     "bootstrap": "^4.5.3",
     "floatthead": "^2.2.1",
     "jquery": "^3.5.1",
+    "live-server": "^1.2.1",
     "materialize-css": "^1.0.0",
+    "sass": "^1.32.12",
     "slick-carousel": "^1.8.1",
     "tailwindcss": "^1.5.2",
     "waypoints": "^4.0.1"
